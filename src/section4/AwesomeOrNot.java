@@ -5,7 +5,7 @@ import java.util.Random;
 public class AwesomeOrNot {
 
 	// 1. Make a main method that includes all the steps below…
-
+	
 	// 2. Make a variable that will hold a random number and put a random number into this variable using "new Random().nextInt(4)"
 
 	// 3. Print out this variable
